@@ -35,7 +35,7 @@ main{
 
 .mensagem{
     background: #FFFFFF;
-    background-image: url(/imagens/search.png);
+    background-image: url(./imagens/search.png);
     background-repeat: no-repeat;
     border-radius: 24px;
     border-color: #0A3871;
